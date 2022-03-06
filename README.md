@@ -1,3 +1,3 @@
-# C--projects
+# C#-projects
 Dice game
 
