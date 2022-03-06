@@ -1,2 +1,3 @@
 # C--projects
-Mice
+Dice game
+
